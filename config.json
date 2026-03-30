@@ -19,6 +19,14 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+    "ffzy": {
+      "api": "https://www.feisuzyapi.com/api.php/provide/vod",
+      "name": "🚀 飞速资源 (国内剧集快)"
+    },
+    "hnzy": {
+      "api": "https://www.hannazy.com/api.php/provide/vod",
+      "name": "🎬 红牛资源 (老片/经典)"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
